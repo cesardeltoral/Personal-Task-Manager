@@ -81,3 +81,7 @@ Follow these instructions to get the project running on your local machine.
     npm start
     ```
     The frontend will open automatically in your browser at `http://localhost:3000`.
+
+![Login](docs/images/login.jpg)
+![Register](docs/images/register.jpg)
+![Task Manager](docs/images/task_manager.jpg)
