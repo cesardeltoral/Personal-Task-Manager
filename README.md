@@ -85,9 +85,21 @@ Follow these instructions to get the project running on your local machine.
    Screenshots
     
    Login Page
+   
    ![Login](docs/images/login.jpg)
+   
    Register Page
    ![Register](docs/images/register.jpg)
    Task Manager
+   
    ![Task Manager](docs/images/task_manager.jpg)
 
+
+
+
+
+
+
+
+
+   
