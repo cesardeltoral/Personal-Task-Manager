@@ -1,0 +1,14 @@
+fastapi[all]
+uvicorn[standard]
+
+# Database
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+# Security
+passlib[bcrypt]
+python-jose[cryptography]
+
+# Form Data
+python-multipart
