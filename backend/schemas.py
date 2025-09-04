@@ -14,7 +14,6 @@ class TaskCreate(TaskBase):
 class Task(TaskBase):
     id: int
     owner_id: int
-    completed: bool
 
     class Config:
         from_attributes = True
